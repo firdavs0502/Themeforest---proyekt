@@ -1,0 +1,316 @@
+body {
+    background-color: #10101A;
+    overflow: hidden;
+}
+.b {
+    width: 300px;
+    height: 637px;
+    background-color: #0C0C14;
+    margin-left: -50px;
+    margin-top: -750px;
+    z-index: 1;
+}
+
+.a img {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    border: 5px solid white;
+    z-index: 3;
+    margin-top: -660px;
+    position: absolute;
+    margin-left: 60px;
+}
+.c {
+    width: 260px;
+    height: 200px;
+    background-color: #2FBF71;
+    position: absolute;
+    margin-top: -630px;
+    margin-left: -15px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+.d {
+    margin-top: -400px;
+    font-family: sans-serif;
+    position: absolute;
+    margin-left: 60px;
+    color: white;
+}
+.home {
+    position: absolute;
+    margin-top: -280px;
+    color: white;
+    font-family: sans-serif;
+}
+.home-text {
+    margin-top: -20px;
+    margin-left: 40px;
+}
+.home-chizigi {
+    width: 251px;
+    height: 2px;
+    background-color: #14141B;
+    margin-left: -9px;
+}
+.About {
+    position: absolute;
+    margin-top: -250px;
+    color: white;
+    font-family: sans-serif;
+}
+.turt {
+    margin-left: 30px;
+    margin-top: -40px;
+}
+.ion {
+    margin-top: 30px;
+}
+.besh {
+    width: 251px;
+    height: 2px;
+    background-color: #14141B;
+    margin-left: -9px;
+}
+.Services {
+    position: absolute;
+    margin-top: -180px;
+    color: white;
+    font-family: sans-serif;
+}
+.Services-text {
+    margin-left: 30px;
+    margin-top: -40px;
+}
+.Services-chizigi {
+    width: 251px;
+    height: 2px;
+    background-color: #14141B;
+    margin-left: -9px;
+}
+.portfolio-text {
+    margin-top: -40px;
+    margin-left: 30px;
+    font-family: sans-serif;
+    color: white;
+    position: absolute;
+}
+.portfolio-icon {
+    margin-top: -100px;
+    color: white;
+}
+.portfolio-chizigi {
+    width: 251px;
+    height: 2px;
+    background-color: #14141B;
+    margin-left: -9px;
+}
+.facebook {
+    margin-left: 35px;
+    width: 70px;
+    height: 70px;
+    color: white;
+    margin-top: 30px;
+}
+.twitter {
+    width: 70px;
+    height: 70px;
+    color: white;
+    margin-top: -70px;
+    margin-left: 67px;
+}
+.facebook:hover {
+    color: #2FBF71;
+}
+.twitter:hover {
+    color: #2FBF71;
+}
+.instagram {
+    width: 70px;
+    height: 70px;
+    color: white;
+    margin-left: 100px;
+    margin-top: -70px;
+}
+.instagram:hover {
+    color: #2FBF71;
+}
+.in {
+    width: 70px;
+    height: 70px;
+    color: white;
+    margin-left: 130px;
+    margin-top: -70px;
+}
+.in:hover {
+    color: #2FBF71;
+}
+.pinterest {
+    width: 70px;
+    height: 70px;
+    color: white;
+    margin-left: 156px;
+    margin-top: -70px;
+}
+.pinterest:hover {
+    color: #2FBF71;
+}
+
+
+
+.devo {
+    margin-left: 270px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.rasm img{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-left: 685px;
+    margin-top: -500px;
+}
+
+.oy {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    border-radius: 100%;
+    margin-left: 1290px;
+    margin-top: -650px;
+}
+.oy-ikki ion-icon {
+    width: 30px;
+    height: 30px;
+    margin-left: 1290px;
+    color: #0C0C14;
+}
+.oy-ikki {
+    margin-top: -640px;
+    margin-left: 10px;
+}
+.strelka {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    border-radius: 100%;
+    margin-left: 1290px;
+    margin-top: -10px;
+}
+.strelka-ikki ion-icon {
+    width: 30px;
+    height: 30px;
+    margin-left: 1290px;
+    color: #0C0C14;
+}
+.strelka-ikki {
+    margin-top: -1px;
+    margin-left: 10px;
+}
+.strelka-ikki ion-icon:hover {
+    color: #2FBF71;
+}
+
+.katta-rasm img{
+    width: 1100px;
+    margin-left: 243px;
+    margin-top: -10px;
+}
+.katta-suz {
+    position: absolute;
+    font-family: sans-serif;
+    margin-left: 640px;
+    margin-top: -270px;
+    color: white;
+}
+.gap {
+    position: absolute;
+    font-family: sans-serif;
+    margin-left: 690px;
+    margin-top: -219px;
+    color: white;
+}
+.ikkinchi-facebook {
+    color: white;
+    margin-left: 700px;
+    margin-top: 370px;
+}
+.facebook-ichi {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-left: 688px;
+    margin-top: 335px;
+    border-radius: 100%;
+    background-color: #2FBF71;
+}
+.twitter-ichi {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-left: 740px;
+    margin-top: -32px;
+    border-radius: 100%;
+    background-color: #2FBF71;
+}
+.ikkinchi-twitter {
+    color: white;
+    margin-left: 750px;
+    margin-top: -20px;
+}
+.instagram-ichi {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-left: 790px;
+    margin-top: -32px;
+    border-radius: 100%;
+    background-color: #2FBF71;
+}
+.ikkinchi-instagram {
+    position: absolute;
+    color: white;
+    z-index: 9;
+    margin-left: 802px;
+    margin-top: -20px;
+}
+.ikkinchi-in {
+    position: absolute;
+    color: white;
+    z-index: 9;
+    margin-left: 852px;
+    margin-top: -20px;
+}
+.in-ichi {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-left: 840px;
+    margin-top: -32px;
+    border-radius: 100%;
+    background-color: #2FBF71;
+}
+.pinterest-ichi {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin-left: 890px;
+    margin-top: -32px;
+    border-radius: 100%;
+    background-color: #2FBF71;
+}
+.ikkinchi-pinterest {
+    position: absolute;
+    color: white;
+    z-index: 9;
+    margin-left: 902px;
+    margin-top: -20px;
+}
